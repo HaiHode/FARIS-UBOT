@@ -29,25 +29,25 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "tol":
+    if input_str == "Baa":
 
         await event.edit(input_str)
 
         animation_chars = [
 
-            "Kontolll",
-            "Lo anak kontolll",
-            "Dibikin dari kontoll",
-            "Muka lo persis kontolll",
-            "Dasar anak NGONTOLLL!!!",
-            "Nolep kontoll",
-            "Ngerusuh kontoll",
-            "Bener bener kontoll",
-            "Padahal Lo gapunya kontolll",
-            "Karna Lo ga punya kontoll",
-            "Mending lo oprasi kontoll",
-            "Biar lo punya kontoll",
-            "Kasian cacat gada kontoll"
+            "Baaaa",
+            "Kaget ngga?",
+            "Kalo kaget,maaf ya",
+            "Kalo engga kaget maaf juga,garing",
+            "Udah makan belum?",
+            "Makan dulu sana",
+            "Nanti sakit",
+            "🐻Emmmmm",
+            "Yahaha,baper kok sama Bot",
+            "Maaf ya ini tadi cuma Bot ku",
+            "Dada,sehat sehat ya",
+            "BTW,kamu udah mandi?",
+            "-Tamat-"
         ]
 
         for i in animation_ttl:
@@ -211,7 +211,7 @@ async def _(event):
             "------------------>",
             "------>;(^。^)ノ",
             "(￣ー￣) MENINGGOY",
-            "**Mati Lu Anjing 😵😵**",
+            "**Mati Lu Bero 😵😵**",
         ]
 
         for i in animation_ttl:
