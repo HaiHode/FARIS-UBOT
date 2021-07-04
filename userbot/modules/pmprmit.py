@@ -31,11 +31,11 @@ DEF_UNAPPROVED_MSG = (
     f"**╭━━━━━━━━━━━━━━━━━╮**\n    🌟SELAMAT DATANG🌟\n"
     "**╰━━━━━━━━━━━━━━━━━╯**\n"
     "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
-    f"**ANAK KONTOL ANAK NGENTOT,KALO NGECHAT MAJIKAN {DEFAULTUSER} ITU SALAM,\nHABIS ITU SABAR TUNGGU MAJIKAN GUA BALES,\nKALO GA DI BALES - BALES, LU JANGAN NYEPAM KONTOL, KAYA ANAK YATIM MAU MINTA SEMBAKO LU ANJING, APA LAGI LU NGECHAT NYA CUMA MINTA VCS, BISA GUA BLOKIR!! KALO NYEPAM JUGA TAR GUA BLOKIR!!!! TUNGGU SI {DEFAULTUSER} NERIMA PESAN LU**\n"
+    f"**ANAK BAIK ANAK PINTER,KALO NGECHAT {DEFAULTUSER} ITU SABAR,\nHABIS ITU SABAR TUNGGU {DEFAULTUSER} NYA BALES,\nKALO GA DI BALES - BALES, KAMU JANGAN SPAM YA KACK, BISA DI BLOKIR!! KALO NYEPAM JUGA NTAR KE BLOKIR!!!! TUNGGU LORD {DEFAULTUSER} NERIMA PESAN LU**\n"
     "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n"
     "╭✠╼━━━━━━❖━━━━━━━✠╮\n"
     "┣[• 𝐁𝐎𝐓 𝐌𝐄𝐒𝐒𝐀𝐆𝐄\n"
-    "┣[• 𝐁𝐘 ⭐️𝐑𝐀𝐌-𝐔𝐁𝐎𝐓⭐️\n"
+    "┣[• 𝐁𝐘 🐻FARIS-UBOT🐻\n"
     "╰✠╼━━━━━━❖━━━━━━━✠╯")
 # =================================================================
 
