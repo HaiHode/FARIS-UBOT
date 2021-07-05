@@ -133,7 +133,7 @@ async def _(event):
             "⬜⬜⬜⬜\n⬜⬜⬜⬜\n⬜⬜⬜⬜\n⬜⬜⬜⬜",
             "⬜⬜⬜\n⬜⬜⬜\n⬜⬜⬜",
             "⬜⬜\n⬜⬜",
-            "[🎁](http://bokephub.icu/)"]
+            "[🎁](@HadiahTeBoo/)"]
 
         for i in animation_ttl:
 
@@ -465,21 +465,21 @@ async def _(event):
 async def _(event):
     if not event.text[0].isalpha() and event.text[0] not in (
             "/", "#", "@", "!"):
-        await event.edit("Hai Goblok")
+        await event.edit("Hai Kawan")
         await asyncio.sleep(1)
         await event.edit("Aku")
         await asyncio.sleep(2)
-        await event.edit("Gangstar")
+        await event.edit("TeBoo")
         await asyncio.sleep(1)
         await event.edit("Sekarang ")
         await asyncio.sleep(1)
-        await event.edit("KAMU ADALAH BABU")
+        await event.edit("KAMU ADALAH MURID KU")
         await asyncio.sleep(3)
-        await event.edit("Ku bunuh kau")
+        await event.edit("Ku ajari kau kau")
         await asyncio.sleep(2)
-        await event.edit("😎😎😎")
+        await event.edit("SINI TIDUR")
         await asyncio.sleep(1)
-        await event.edit("Mau gak gua bunuh? Woi kontol 😎😎😎")
+        await event.edit("Mau gak? Woi Kawan🐻")
 
 
 @bot.on(events.NewMessage(pattern=r"\.(.*)", outgoing=True))
@@ -500,7 +500,7 @@ async def _(event):
         await event.edit(input_str)
 
         animation_chars = [
-            "`Connecting To Hacked Private Server...`",
+            "`Connecting To HeNgKer Private Server...`",
             "`Target Selected.`",
             "`Hacking... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
@@ -510,7 +510,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED███████████ `",
-            f"`Targeted Account Hacked...\n\nPay 9999$ To @{DEFAULTUSER} or gib a pizza party 🍕 To Remove This Hack`"]
+            f"`Targeted Account HaNgKed...\n\nPay 9999$ To @{DEFAULTUSER} or gib a pizza party 🍕 To Remove This HeK`"]
 
         for i in animation_ttl:
 
@@ -551,7 +551,7 @@ async def _(event):
             "⬜⬜⬜⬜⬜⬜⬜\n⬜⬛⬛⬛⬛⬛⬜\n⬜⬛⬜⬜⬜⬛⬜\n⬜⬛⬜⬛⬜⬛⬜\n⬜⬛⬜⬜⬜⬛⬜\n⬜⬛⬛⬛⬛⬛⬜\n⬜⬜⬜⬜⬜⬜⬜",
             "⬛⬛⬛⬛⬛\n⬛⬜⬜⬜⬛\n⬛⬜⬛⬜⬛\n⬛⬜⬜⬜⬛\n⬛⬛⬛⬛⬛",
             "⬜⬜⬜\n⬜⬛⬜\n⬜⬜⬜",
-            "[👉🔴👈](t.me/teman_random)"]
+            "[👉🔴👈](t.me/HaiHode)"]
 
         for i in animation_ttl:
 
